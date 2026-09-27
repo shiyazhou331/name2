@@ -1,4 +1,4 @@
-# Ecosystem Carbon Budget and Sedimentary Carbon Stabilization Mechanisms in the Chudao Oyster Reef, Sanggou Bay, China
+# Carbon Budget and Sedimentary Carbon Stabilization in a Warm-Temperate Oyster Reef Ecosystem: A Case Study of Chudao Reef, Sanggou Bay, China
 
 ## Overview
 This repository contains the data and code used to analyze ecosystem carbon budget components and sedimentary carbon stabilization mechanisms in the Chudao oyster reef ecosystem. The repository is prepared for double-blind peer review and does not contain identifying information.
